@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "gsn-powered-dapp/Counter": [
+      {
+        "address": "0xb52640BA2019650bf05bA48C7c35f0Ace10eBd40",
+        "kind": "NonProxy",
+        "bytecodeHash": "d72425a61ebd2811bfb4c83e2064471afa3ae4db2ce47d32729b8b64c3b04408"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
